@@ -1,1 +1,3 @@
 new line in file 6
+
+file 6 - New change in master branch
