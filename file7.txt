@@ -1,4 +1,2 @@
-this is file7
-
-
 file 7 - New change in master branch
+new change in file7.txt from feature1 branch
